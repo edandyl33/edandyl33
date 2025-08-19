@@ -1,5 +1,4 @@
-- 👋 Hi, I’m 1002mp and also cybersec guys.
-- 🌱 I’m insterested bug bounty, Pentest and IOT/hardware hacking.
+- 👋 Hi
 
 
 <!---
